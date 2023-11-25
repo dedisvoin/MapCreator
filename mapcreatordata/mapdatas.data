@@ -1,0 +1,15 @@
+<[ sprites ]
+
+tiles_btn = 'mapcreatordata\tiles_btn.png' 1 0
+places_btn = 'mapcreatordata\places_btn.png' 1 0
+con_bt = 'mapcreatordata\con_btn.png' 1 0
+cona_bt = 'mapcreatordata\cona_btn.png' 1 0
+col_bt = 'mapcreatordata\col_btn.png' 1 0
+pen_bt = 'mapcreatordata\pen_btn.png' 1 0
+penb_bt = 'mapcreatordata\penb_btn.png' 1 0
+penr_bt = 'mapcreatordata\penr_btn.png' 1 0
+penrd_bt = 'mapcreatordata\penrd_btn.png' 1 0
+surfs_btn = 'mapcreatordata\surfs_btn.png' 1 0
+gridv_btn = 'mapcreatordata\gridw_btn.png' 1 0
+
+>[ sprites ]
